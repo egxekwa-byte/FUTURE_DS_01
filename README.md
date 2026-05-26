@@ -51,7 +51,7 @@ The goal is to simulate a real-world business scenario where data is used to sup
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](ADD_IMAGE_HERE)
+![Dashboard Screenshot](Business Sales Dashboard.png)
 
 ---
 
